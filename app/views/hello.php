@@ -10,8 +10,7 @@
     <link href="<?= asset('css/bootstrap.css');  ?>" rel="stylesheet">
  <!-- Fontawesome core CSS -->
     <link href="<?= asset('css/font-awesome.min.css');  ?>" rel="stylesheet" />
-     <!--GOOGLE FONT -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
       <!-- Timeline -->
     <link href="<?= asset('css/timeline.css');  ?>" rel="stylesheet" />
      <!-- custom CSS here -->

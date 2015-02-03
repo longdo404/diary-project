@@ -16,10 +16,11 @@ class HomeController extends BaseController {
 	*/
     public function showWelcome() {
         $data['title'] = "Index";
-        return View::make('hello', $data);
+        return View::make('home', $data);
     }
     
-    public function deleteUser() {
-        DB::table('test')->delete();
+    public function create_diary() {
+        $data['title'] = "Index";
+        return View::make('create_diary', $data);
     }
 }

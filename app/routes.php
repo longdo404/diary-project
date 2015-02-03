@@ -11,7 +11,6 @@
 |
 */
 
-Route::get('/', array('uses' => 'HomeController@showWelcome') ,function()
-{
-	
-});
+Route::get('/', array('uses' => 'HomeController@showWelcome') ,function(){});
+
+Route::get('/create', array('uses' => 'HomeController@create_diary') ,function(){});

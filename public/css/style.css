@@ -19,10 +19,11 @@ body {
 }
 
 .nav a {
-    color:#ffffff !important;
+	font-size:13px;
+    font-weight:bold;
+    color:#333;
 }
 .navbar-header a {
-    color:#ffffff !important;
     padding-right:100px;
 }
 

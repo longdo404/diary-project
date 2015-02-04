@@ -16,7 +16,7 @@ class HomeController extends BaseController {
 	*/
     public function showWelcome() {
         $data['title'] = "Index";
-        return View::make('home', $data);
+        return View::make('layouts.frontend.homepage.home', $data);
     }
     
     public function create_diary() {

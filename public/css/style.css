@@ -13,18 +13,42 @@ Author: http://binarytheme.com
     GENERAL STYLES
 ==================================================*/
 body {
-        background:url("../img/bg-theme/preview_29.jpg");
+        background:url("../img/bg-theme/preview_3.jpg");
           font-family:'Open Sans', sans-serif;
     font-size:14px;
 }
+.navbar-default {
+	border-bottom: 1px solid #e7e7e7;
+	background: #fff;
+	font-size: 15px;
+	box-shadow: 0 2px 5px rgba(0,0,0,.08);
+}
+.navbar {
+	border-radius:0px;
+}
 
 .nav a {
-	font-size:13px;
-    font-weight:bold;
-    color:#333;
 }
+.link-active {
+	color: #a3c737!important;
+}
+.link-thirty {
+	color: #6db4d0!important;
+}
+.link-secondary {
+	color: #00aced!important;
+}
+.link-primary {
+    color: #a3c737;
+}
+
 .navbar-header a {
+	padding: 25px 25px;
     padding-right:100px;
+}
+
+.navbar-nav > li > a {
+	padding: 25px 25px;
 }
 
 .text-center {

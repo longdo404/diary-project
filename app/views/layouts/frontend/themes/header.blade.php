@@ -13,7 +13,7 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="#" class="link-active">Trang chủ</a></li>
-                <li><a href="#" class="link-secondary">Dòng thời gian</a></li>
+                <li><a href="#" class="link-secondary">Nhật ký của LastName</a></li>
                 <li><a href="#" class="link-thirty">Tạo mới</a></li>
                 <li><a href="#" class="link-thirty">Cài đặt</a></li>
             </ul>

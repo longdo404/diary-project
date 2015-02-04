@@ -16,11 +16,11 @@ class HomeController extends BaseController {
 	*/
     public function showWelcome() {
         $data['title'] = "Index";
-        return View::make('layouts.frontend.homepage.home', $data);
+        return View::make('pages.home.index', $data);
     }
     
     public function create_diary() {
         $data['title'] = "Index";
-        return View::make('create_diary', $data);
+        return View::make('pages.home.create_diary', $data);
     }
 }

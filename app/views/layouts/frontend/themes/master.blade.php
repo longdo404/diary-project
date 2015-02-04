@@ -16,9 +16,4 @@
     </div>
     
     <!-- End content -->
-    
-    <!--Core JavaScript file  -->
-    <script src="<?= asset('js/jquery-1.10.2.js'); ?>"></script>
-    <!--bootstrap JavaScript file  -->
-    <script src="<?= asset('js/bootstrap.js') ?>"></script>
 </body>

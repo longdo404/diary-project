@@ -13,3 +13,10 @@
     <link href="<?= asset('css/timeline.css');  ?>" rel="stylesheet" />
      <!-- custom CSS here -->
     <link href="<?= asset('css/style.css');  ?>" rel="stylesheet" />
+    
+    
+    <!--Core JavaScript file  -->
+    <script src="<?= asset('js/jquery-1.10.2.js'); ?>"></script>
+    <script src="<?= asset('packages/ckeditor/ckeditor.js') ?>"></script>
+    <!--bootstrap JavaScript file  -->
+    <script src="<?= asset('js/bootstrap.js') ?>"></script>
